@@ -39,7 +39,7 @@ Sau đây là các bước cơ bản để có thể cài đặt và vận hành
     1. chuột phải ở folder cần cài đặt source code nhấn vào git bash
     2. nhập
     ```sh
-    git clone https://github.com/DongDev-VN/Mirai-Bot-V3 Mirai-Bot-V3
+    git clone https://github.com/tuanank/Mirai-Bot-V3 Mirai-Bot-V3
     ```
     
 3. Cài đặt các package cần thiết
